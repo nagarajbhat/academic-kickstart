@@ -5,28 +5,45 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#slider"
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Blog"
   url = "#posts"
-  weight = 20
+  weight = 15
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+  name = "About me"
+  url = "#about"
+  weight = 25
 
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "Buy me a coffee :)"
+  url = "https://ko-fi.com/nagarajbhat"
+  weight = 80
+
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
+
+
+#[[main]]
+ # name = "Publications"
+  #url = "#featured"
+  #weight = 40
+
+
+
+
+ 
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
