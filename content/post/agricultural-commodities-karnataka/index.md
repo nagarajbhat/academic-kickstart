@@ -3,9 +3,9 @@ title: "Visualizing Agricultural commodities in karnataka "
 subtitle: 'top commodities in different districts of karnataka viusalized :ear_of_rice:'
 
 date: 2020-01-17T14:19:56+11:00
-draft: true
+draft: false
 categories : ["Data Stories"]
-tags : ["visualization","agriculture"]
+tags : ["visualization","agriculture","Data Stories"]
 image: 
   placement: 1
 type: post
@@ -16,8 +16,9 @@ description: "let us briefly explore the agricultural commodities across various
 
 ---
 
-
 Based on Karnataka Agriculture market data (data.gov.in, 2013), let us briefly explore the agricultural commodities across various districts in Karnataka through visualization. 
+
+If you are interested in the how this visualization was created, checkout this post- [Python's folium to create choropleth maps](https://www.nagarajbhat/post/folium-visualization/)
 
 Note that **'Arrival'** refers to the arrival of commodities at a place for sale, from various sources such as villages, storages, etc.
 
@@ -37,7 +38,10 @@ Note that **'Arrival'** refers to the arrival of commodities at a place for sale
 ## Top ten Agricultural commodities in Karnataka
 
 **Paddy and maize** are top agricultural commodities, followed by onion, rice, potato, cotton, green ginger, tomato, areca nut, and tur. 
-![top ten commodities](/folium_visualization/img/step6_topten.png)
+
+![image](/img/folium-visualization/step6_topten.png)
+*Fig.1: Top ten Commodities in karnataka(arrival values)*
+
  The commonality between this result and the national share (see disclaimer below) is **areca nut**, proving its significance in Karnataka. It is predominantly found in Udupi, Shimoga, Dakshina, and Uttara Kannada.
 
 Although due to its harmful effects on health (it is considered as a carcinogen), it is prohibited for sale in countries like Australia and Newzealand, and banned in UAE.
@@ -46,56 +50,50 @@ Although due to its harmful effects on health (it is considered as a carcinogen)
 - Exploring the largest commodity in each district, we find that paddy and maize dominate the list (see map below). With paddy being the highest commodity in **Raichur, Bellary, koppal, Uttara Kannada, Chikmagalur, Mysore and chamrajanagar**.
 - Whereas Maize is a top crop in Bagalakot, Gadag, Haveri, Davanagere, Shimoga, Chitradurga, Chickballapur and Bangalore rural.
 
-{{<figure  src="/img/folium_visualization/step14_icon_commodity.png" link="/files/folium_visualization/step14_icon_commodity.html" caption="Icon district commodity" lightbox="true" >}}
+[![icon Commodity](/img/folium-visualization/step14_icon_commodity.png)](/files/folium-visualization/step14_icon_commodity.html/)
+*Fig 2: Largest commodities in each district. Click on the image for the interactive map. Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>*
 
 - The top commodities in Udupi and Dakshina Kannada are arecanut, in Hassan and Kodagu it is Green ginger, in Gulbarga and Bidar its tur. in Bijapur it is cotton.
 - Mango is the top arrival commodity in Ramnagar, jaggery in Mandya, tomato in Kolar and copra in Tumkur. 
 - Onion is a top commodity in Belgaum, Dharwad and Bangalore Urban.
 
-
-
 ## Major Districts where the top commodities arrive.
 Here are some of the commodities market share by the district.
 - **Paddy**
 	As we can see the majority of paddy comes from Raichur,koppal, and davanagere.In fact, Raichur accounts for a 20.28% share of overall paddy in Karnataka.
-   [![icon commodity](/img/fla/paddy.png)](/folium_visualization/html/step11_toptenmap.html)
-
-   Click on the map image above to toggle various commodities.
-
-   
+  
+[![icon Commodity](/img/folium-visualization/paddy.png)](/files/folium-visualization/step11_toptenmap.html/)
+*Fig 3: Paddy across karnataka(click on the map for interaction)*
 
 - **Maize**
 
   Shimoga, Davanagere, and Haveri account for 63.25% of maize in Karnataka.
-  [![icon commodity](/img/maize.png)](/folium_visualization/html/step11_toptenmap.html)
-
+[![icon Commodity](/img/folium-visualization/maize.png)](/files/folium-visualization/step11_toptenmap.html/)
+*Fig 4: Maize across karnataka(click on the map for interaction)*
 
 - **Tomato**
 
   Kolar accounts for 51.95 % of tomato in Karnataka.
-  [![icon commodity](/img/folium_visualization/tomato.png)](/files/folium_visualization/step11_toptenmap.html)
-
+ [![icon Commodity](/img/folium-visualization/tomato.png)](/files/folium-visualization/step11_toptenmap.html/)
+*Fig 5: Tomato across karnataka(click on the map for interaction)*
 
 - **Arecanut**
 
   Udupi, Shimoga, Uttara Kannada and Dakshina Kannada account for 85.75% of Arecanut, With Udupi alone having 33.41% market share.
-  [![icon commodity](/img/folium_visualization/img/arecanut.png)](/folium_visualization/html/arecanut.html)
+ [![icon Commodity](/img/folium-visualization/arecanut.png)](/files/folium-visualization/step11_toptenmap.html/)
+*Fig 6: Arecanut across karnataka(click on the map for interaction)*
 
 ## Highest Commodity arrival Month and district wise:
 
 If we segregate different months and look into the total arrival of commodities at different districts, we find these results:
 
 - The arrival of Maize in Shimoga is the month of May is the highest, with 1763243 quintals.
-- Onion in Bangalore urban in the month of October is the second highest. So you can expect to find more Onion in bangalore urban in October.
+- Onion in Bangalore urban in the month of October is the second highest.
 - Paddy in Davanagere in month June is the third-highest
 - Followed by onion in Bangalore urban in November, and arecanut in Udupi in the month of January.
-So you can expect to find 
 
-[![icon commodity](/folium_visualization/img/mon_district_highest.png)](/folium_visualization/html/mon_district_highest.html)
-
-
-## heatmap
-[![icon commodity](/folium_visualization/img/heatmap_cap.gif)](/folium_visualization/html/heatmapt_all.html)
+[![icon commodity](/img/folium-visualization/mon_district_highest.png)](/files/folium-visualization/mon_district_highest.html)
+*Fig.7 : Highest commodities month and district wise.*
 
 ### Disclaimer/limitations:
 
