@@ -372,7 +372,7 @@ m
 ```
 
 [![image](/img/folium-visualization/step11_toptenmap.png)](/files/folium-visualization/step11_toptenmap.html)
-*Fig.11:Multiple data view lapyer in a single map - top ten Commodities (click on the map for interaction)*
+*Fig.11:Multiple data view lapyer in a single map - top ten Commodities (click on the map for interaction, this map may take time to load because of large file size)*
 
 
 
