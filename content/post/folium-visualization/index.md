@@ -27,7 +27,7 @@ Folium is python library built on top of leaflet.js. It is used to visualize dat
 
 If you are interested in the agricultural aspect and results of this analysis, checkout this post- [visualizing agricultural commodities in karnataka](https://www.nagarajbhat/post/agricultural-commodities-karnataka/)
 
-For ipython notebook code, checkout my [github]()
+For ipython notebook code, checkout my [github](https://github.com/nagarajbhat/folium-visualization)
 
 ## What will be covered in this blog?
 
