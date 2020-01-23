@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Hi, I am Nagaraj Bhat! :smile:"
+  title = "Hi, I am Nagaraj Bhat!"
   content = "I write about Data science, coding, and sometimes other stuff"
   align = "center"  # Choose `center`, `left`, or `right`.
 
