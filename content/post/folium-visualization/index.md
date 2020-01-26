@@ -1,6 +1,6 @@
 ---
 title: "Python's Folium to create choropleth maps"
-date: 2020-01-14T23:43:34+11:00
+date: 2020-01-24T23:43:34+11:00
 draft: false
 authors:
 - admin
