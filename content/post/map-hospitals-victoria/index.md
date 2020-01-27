@@ -268,7 +268,7 @@ m
 We can combine all the three features, i.e hospitals, locality and the heatmap in a single map using Featuregroup and control layer.
 If you want to check out the **code for combined features visit my github repository [here](https://github.com/nagarajbhat/map-hospitals-victoria)** and open app.py
 
-**To view the app (combining all three features), [click here -Interactive map for hospitals in vistoria](https://www.nagarajbhat.com/app/map-hospitals-victoria.html)**.
+**To view the app (combining all three features), [click here -Interactive map for hospitals in Victoria](https://www.nagarajbhat.com/app/map-hospitals-victoria.html)**.
 
 Also check out my youtube video for Inteactive maps in victoria - 
 
