@@ -18,7 +18,7 @@ description: "let us briefly explore the agricultural commodities across various
 
 Based on Karnataka Agriculture market data (data.gov.in, 2013), let us briefly explore the agricultural commodities across various districts in Karnataka through visualization. 
 
-If you are interested in the how this visualization was created, checkout this post- [Python's folium to create choropleth maps](https://www.nagarajbhat/post/folium-visualization/)
+If you are interested in the how this visualization was created, checkout this post- [Python's folium to create choropleth maps](https://www.nagarajbhat.com/post/folium-visualization/)
 
 Note that **'Arrival'** refers to the arrival of commodities at a place for sale, from various sources such as villages, storages, etc.
 
