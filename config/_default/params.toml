@@ -108,8 +108,10 @@ email = "nagarajbhat12@gmail.com"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM or follow me", link = "https://twitter.com/nagarajbhat92"},
-  {icon = "linkedin", icon_pack = "fab", name = "Add me on Linkedin", link = "https://linkedin.com/in/nagarajbhat12"},
-  {icon = "github", icon_pack = "fab", name = "Check out my code on github", link = "https://github.com/nagarajbhat"},
+  {icon = "linkedin", icon_pack = "fab", name = "Connect with me on Linkedin", link = "https://linkedin.com/in/nagarajbhat12"},
+  {icon = "github", icon_pack = "fab", name = "Check my code on github", link = "https://github.com/nagarajbhat"},
+  {icon = "instagram", icon_pack = "fab", name = "Check my poetry on instagram", link = "https://instagram.com/nagipoetry/"},
+
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},

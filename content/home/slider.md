@@ -7,24 +7,24 @@ weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 5000
+interval = 4500
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+height = "310px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
   title = "Hi, I am Nagaraj Bhat!"
-  content = "I write about Data science, coding, and sometimes other stuff"
+  content = "I tell stories from Data and write poetry without one!"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  #overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/map-cover2.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -39,13 +39,13 @@ height = ""
 
 [[item]]
   title = "About me"
-  content = "'The coast is only as clear as the eyes can see' :telescope:. <br/>Forget about the coast, here's more on me "
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = "'The coast is only as clear as the eyes can see' :telescope: <br/>Forget about the coast, here's more on me "
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  #overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/st_kilda.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -64,8 +64,8 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+ # overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/city.jpg" # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
