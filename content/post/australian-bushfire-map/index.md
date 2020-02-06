@@ -11,11 +11,11 @@ image:
   caption: ""
   focal_point: ""
 featured: true
-
+description: "We will take a look at fire data obtained from NASA satellite's MODIS and VIIRS, to visualize the recent Australian bushfire in maps"
 type: post 
 comments: true 
 share: true
-summary: "The Australian bushfire has led to a massive loss to wildlife, forest area and has even caused human casualties, including firefighters from the U.S. It has even affected the air quality in nearby cities such as Sydney and Melbourne. We will take a look at fire data obtained from NASA satellite's MODIS and VIIRS."
+summary: "The Australian bushfire has led to a massive loss to wildlife, forest area and has even caused human casualties.We will take a look at fire data obtained from NASA satellite's MODIS and VIIRS, to visualize the recent Australian bushfire in maps"
 
 ---
 
