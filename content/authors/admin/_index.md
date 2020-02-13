@@ -18,7 +18,7 @@ organizations:
   url: "https://www.deakin.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I Tell stories from the data. Interests - Python, Machine learning, and poetry.
+bio: I tell stories from the data. Interests - Python, Machine learning, and poetry.
 
 interests:
 - Machine learning
