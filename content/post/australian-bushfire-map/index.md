@@ -81,7 +81,7 @@ The main field used for measurement is FRP. It depicts the pixel-integrated FRP 
 ## Australian bushfire Map
 
 [![image](/img/australian-bushfire-map/australia_bushfire.gif)](/files/australian-bushfire-map/australia_bushfire.html)
-*fig.3: Australian bushfire map (Click on the map for interaction)*
+*fig.3: Australian bushfire map (Click on the map for interaction - timeline reduced due to large file size)*
 
 - The above map gives heatmap with time
 - Click on it and play it at higher fps to increase speed
@@ -91,8 +91,8 @@ The main field used for measurement is FRP. It depicts the pixel-integrated FRP 
 South Eastern region was the most affected in the recent Bushfire.
 The following map depicts the spread of fire.
 
-[![image](/img/australian-bushfire-map/se_fire.gif)](/files/australian-bushfire-map/australia_bushfire.html)
-*fig.4: South Eastern bushfire map (Click on the map for interaction)*
+[![image](/img/australian-bushfire-map/se_fire.gif)](/files/australian-bushfire-map/se_fire.html)
+*fig.4: South Eastern bushfire map (Click on the map for interaction-  timeline reduced due to large file size)*
 
 
 ## Fire near Canberra from Jan 20th to Jan 30th
@@ -111,7 +111,7 @@ You can see the red spot appearing in Canberra after 25th, indicating fire activ
 
 
 [![image](/img/australian-bushfire-map/kangaroo.gif)](/files/australian-bushfire-map/kangaroo.html)
-*fig.6: Kangaroo Island bushfire map (Click on the map for interaction)*
+*fig.6: Kangaroo Island bushfire map (Click on the map for interaction-  timeline reduced due to large file size)*
 
 
 
