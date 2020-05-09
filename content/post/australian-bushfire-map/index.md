@@ -10,7 +10,7 @@ image:
   placement: 3
   caption: ""
   focal_point: ""
-featured: true
+featured: false
 description: "We will take a look at fire data obtained from NASA satellite's MODIS and VIIRS, to visualize the recent Australian bushfire in maps"
 type: post 
 comments: true 
