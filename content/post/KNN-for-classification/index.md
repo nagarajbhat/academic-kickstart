@@ -283,13 +283,7 @@ So let us take a look at pairwise plot to capture all the features.
 sns.pairplot(df,hue='Type')
 plt.show()
 ```
-
-    C:\Users\nagar\Anaconda3\lib\site-packages\statsmodels\nonparametric\kde.py:487: RuntimeWarning: invalid value encountered in true_divide
-      binned = fast_linbin(X, a, b, gridsize) / (delta * nobs)
-    C:\Users\nagar\Anaconda3\lib\site-packages\statsmodels\nonparametric\kdetools.py:34: RuntimeWarning: invalid value encountered in double_scalars
-      FAC1 = 2*(np.pi*bw/RANGE)**2
-    
-
+  
 
 ![png](output_20_1.png)
 
