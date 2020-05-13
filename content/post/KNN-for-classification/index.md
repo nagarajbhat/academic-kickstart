@@ -580,7 +580,7 @@ we can see that k=4 produces the most accurate results
 - Manhattan distance produced better results (improved accuracy - more than 5%)
 - Applying feature scaling improved accuracy by almost 5%.
 - The best k value was found to be 4.
-- Dropping Ca produced better results by a bit, K value did not affect results in any way.
+- Dropping 'Ca' produced better results by a bit, 'K' feature did not affect results in any way.
 - Also, we noticed that RI and Ca are highly correlated, 
   this makes sense as it was found that the Refractive index of glass was found to increase with the increase in Cao. (https://link.springer.com/article/10.1134/S1087659614030249)
   
