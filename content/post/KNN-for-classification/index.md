@@ -251,7 +251,7 @@ Also Ca and RI are highly correlated, this means using only RI is enough.
 So we can go ahead and drop Ca, and also K.(performed later)
 
 
-## Scatter plot of two features
+#### Scatter plot of two features, and pairwise plot
 
 
 ```python
