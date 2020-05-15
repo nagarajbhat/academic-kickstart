@@ -24,6 +24,7 @@ interests:
 - Machine learning
 - Data Visualization
 - Maps
+- Deep learning
 
 
 education:
@@ -75,7 +76,8 @@ email: ""
 ---
 
 I am passionate about telling stories behind the data. Skilled in Python,Data visualisation and Machine learning. 
-I've previously worked as a software Engineer building sites in Django,flask.
-I am currently working on NASA satellite data to visualize bushfires in australia.
+I've previously worked as a software Engineer building websites in Django,flask.
+
+I am currently participating in #100DaysOfCode challenge,where I share my coding journey,  Check out my progress [here](https://github.com/nagarajbhat/100DaysOfCode).
 
 Apart from that I write poetry and play Table tennis in my free time.
