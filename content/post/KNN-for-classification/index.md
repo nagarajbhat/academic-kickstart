@@ -10,7 +10,7 @@ image:
   placement: 3
   caption: ""
   focal_point: ""
-featured: true
+featured: false
 
 type: post 
 comments: true 
