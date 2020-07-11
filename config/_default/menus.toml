@@ -29,10 +29,10 @@
   url = "https://ko-fi.com/nagarajbhat"
   weight = 80
 
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 30
 
 
 #[[main]]
