@@ -20,14 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I build awesome ML products. Interests - Python, Machine learning, and poetry. 
 
-interests:
-- Machine learning 
-- Data Visualization
-- Maps
-- NLP
+#interests:
+#- Machine learning 
+#- Data Visualization
+#- Maps
+#- NLP
 
 
-education:
+education: 
   courses:
   - course: Master of data Analytics 
     institution: Deakin University, Melbourne
@@ -80,8 +80,16 @@ I've previously worked as a software Engineer building websites in Django,flask.
 
 I am currently participating in the #100DaysOfCode challenge, where I share my coding journey,  Check out my progress [here](https://github.com/nagarajbhat/100DaysOfCode).
 
-Apart from that I write poetry. :black_nib:
 
 I am also working on a [Multilingual COVID-19 Dashboard](https://github.com/nagarajbhat/dash-covid19-multilingual) built using plotly Dash and MarianMT transformer. It also has a news feed that can be filtered using category, country.
+It also trended on subreddit r/dataisbeautiful with over 8k upvotes - [link to the post](https://www.reddit.com/r/dataisbeautiful/comments/hxlew9/i_am_building_a_multilingual_covid19_dashboard/)
 
 Feel free to contact me if you would like to collaborate, hire me , have any questions or just want say Hi! :wave:
+
+### Interests
+
+- Machine learning :robot:
+- Poetry :black_nib:
+- Short movie making :movie_camera:
+- Pink Floyd, Beatles :guitar:
+
