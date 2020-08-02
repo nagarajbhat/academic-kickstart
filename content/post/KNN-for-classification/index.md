@@ -21,7 +21,7 @@ summary: "Explained KNN, used it to classify glass type. Covered pairplot,featur
 
 We will make use of KNN algorithms to classify the type of glass.
 
-### What is covered?
+### What is covered? 
 - Explained KNN algorithm
 - Exploring dataset using visualization - scatterplot,pairplot, heatmap (correlation matrix).
 - Feature scaling

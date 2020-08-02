@@ -8,16 +8,22 @@
   url = "#slider"
   weight = 10
 
-[[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 15
+
 
 [[main]]
   name = "About me"
   url = "#about"
-  weight = 25
+  weight = 15
 
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 20
+
+[[main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 25
 
 [[main]]
   name = "Contact"
@@ -29,10 +35,7 @@
   url = "https://ko-fi.com/nagarajbhat"
   weight = 80
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+
 
 
 #[[main]]

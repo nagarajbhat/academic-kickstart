@@ -18,19 +18,18 @@ organizations:
   url: "https://www.deakin.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I tell stories from the data. Interests - Python, Machine learning, and poetry.
+bio: I build awesome ML products. Interests - Python, Machine learning, and poetry. 
 
 interests:
-- Machine learning
+- Machine learning 
 - Data Visualization
 - Maps
-- Deep learning
 - NLP
 
 
 education:
   courses:
-  - course: Master of data Analytics
+  - course: Master of data Analytics 
     institution: Deakin University, Melbourne
     year: 2019
   - course: B.E in Computer science 
@@ -43,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:nagarajbhat12@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:nagarajbhat12@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nagarajbhat92
@@ -76,9 +75,13 @@ email: ""
 
 ---
 
-I am passionate about telling stories behind the data. Skilled in Python,Data visualisation and Machine learning. 
+I am passionate about building awesome Machine learning products. Skilled in Python,Data visualisation and Machine learning. 
 I've previously worked as a software Engineer building websites in Django,flask.
 
 I am currently participating in the #100DaysOfCode challenge, where I share my coding journey,  Check out my progress [here](https://github.com/nagarajbhat/100DaysOfCode).
 
-Apart from that I write poetry and play Table tennis in my free time.
+Apart from that I write poetry. :black_nib:
+
+I am also working on a [Multilingual COVID-19 Dashboard](https://github.com/nagarajbhat/dash-covid19-multilingual) built using plotly Dash and MarianMT transformer. It also has a news feed that can be filtered using category, country.
+
+Feel free to contact me if you would like to collaborate, hire me , have any questions or just want say Hi! :wave:
