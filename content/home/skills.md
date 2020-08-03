@@ -58,7 +58,7 @@ subtitle = ""
 [[feature]]
   #icon = "python"
   #icon_pack = "fab"
-  name = "numpy"
+  name = "Plotly Dash"
   #description = "90%"
   
 
